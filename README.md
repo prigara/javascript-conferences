@@ -36,8 +36,8 @@ Please send Pull requests to add events to the list. Please do not add workshops
 
 * [Future Insights](https://futureinsightslive.com/chicago-2016/) – May 2-5, 2016 – Chicago, USA
 * [ng-conf](http://www.ng-conf.org) – May 4-6, 2016	– Salt Lake City, UT, USA
-* [JSDay Italy](http://2016.jsday.it/) – May 11-12, 2016 – Verona, Italy	
-* [JSConf Budapest](http://jsconfbp.com/) – May 12-13, 2015 – Budapest, Hungary	
+* [JSDay Italy](http://2016.jsday.it/) – May 11-12, 2016 – Verona, Italy
+* [JSConf Budapest](http://jsconfbp.com/) – May 12-13, 2015 – Budapest, Hungary
 * [Front Trends](http://2016.front-trends.com) – May 18-20, 2016 – Warsaw, Poland
 * [PhoneGap Day EU](http://pgday.phonegap.com/eu2016/) – May 19-20, 2016 - Amsterdam, The Netherlands
 
@@ -49,11 +49,12 @@ Please send Pull requests to add events to the list. Please do not add workshops
 * [You Gotta Love Frontend](http://yougottalovefrontend.com/) - June 27-28, 2016 - Tel Aviv, Israel
 
 ### July
-		
+
 * [FullStack](https://skillsmatter.com/conferences/7278-fullstack#overview) – July 13-15, 2016 – London, UK
 * [npm camp](http://npm.camp/) – July, 2016 – Bay Area, CA, USA
 
 ### August
+* [BrazilJS Conf](https://braziljs.org) – August 19-20, 2016 – Porto Alegre, Brazil
 * [JSConf Iceland](http://jsconf.is/) – August 25-26, 2016 – Reykjavik, Iceland
 
 ### September
@@ -67,9 +68,5 @@ Please send Pull requests to add events to the list. Please do not add workshops
 * [ng-europe](https://ngeurope.org/) – October 25-26, 2015 – Paris, France
 
 ### November
-			
-* [Fluent Europe](http://www.oreilly.com/conferences/) – November 9-11, 2016 – Amsterdam, Netherlands	
 
-
-
-
+* [Fluent Europe](http://www.oreilly.com/conferences/) – November 9-11, 2016 – Amsterdam, Netherlands
