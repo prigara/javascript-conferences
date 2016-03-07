@@ -31,6 +31,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 * [Convergese](http://convergese.com/) – April 13-15, 2016 – Columbia, SC, USA
 * [React Amsterdam](http://react-amsterdam.com/) - April 16, 2016 - Amsterdam, The Netherlands
 * [JSUnconf](http://2016.jsunconf.eu/) – April 23-24, 2016 – Hamburg, Germany
+* [JSConf Uruguay](https://jsconf.uy/) - April 15-16, 2016 - Montevideo, Uruguay
 
 ### May
 
@@ -41,6 +42,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 * [Front Trends](http://2016.front-trends.com) – May 18-20, 2016 – Warsaw, Poland
 * [PhoneGap Day EU](http://pgday.phonegap.com/eu2016/) – May 19-20, 2016 - Amsterdam, The Netherlands
 * [Frontend United](http://frontendunited.org/) - May 27-28, 2016 - Ghent, Belgium
+* [JSConf Belgium](http://jsconf.be/) - May 3, 2016 - Brugge, Belgium
 
 ### June
 
@@ -74,3 +76,4 @@ Please send Pull requests to add events to the list. Please do not add workshops
 ### December
 
 * [DotJS](http://www.dotjs.io/) - December 5, 2016 - Paris, France
+* [JSConf Australia](http://2016.cssconf.com.au/) - December 1, 2016 - Melbourne, Australia
