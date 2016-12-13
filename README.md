@@ -122,6 +122,7 @@ Please send Pull requests to add events to the list. Please do not add workshops
 | [Northeast JavaScript Conference](http://www.northeastjsconference.com/) | September 15-16, 2016 || Stamford, CT, USA |
 | [From the Front](https://2016.fromthefront.it/) | September 15-16, 2016 || Bologna, Italy |
 | [Smart Web](http://www.smartwebconf.com/) | September 20, 2016 || Bucharest, Romania |
+| [BarcelonaJS](https://barcelonajs.org) | September 22, 2016 || Barcelona, Spain |
 | [AngularConnect](http://angularconnect.com/) | September 27-28, 2016 || London, UK |
 | [Paris Web](http://www.paris-web.fr/) | September 29 - October 1, 2016 || Paris, France |
 |October||||
