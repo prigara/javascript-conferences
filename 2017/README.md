@@ -137,4 +137,5 @@ You can find a list of events in 2016 [here](https://github.com/prigara/javascri
 | [Forward JS Ottawa](https://forwardjs.com/ottawa) | April 3-6, 2018 | [CFP](https://goo.gl/forms/cCKHB08d20nA0AZr1) | Ottawa, ON, Canada |
 | [ng-conf](https://www.ng-conf.org/) | April 18-20, 2018 | | Salt Lake City, UT, USA |
 |June||||
+| [JSConf Eu](https://2018.jsconf.eu/) | June 2-3, 2018 | | Berlin, Germany |
 | [ConvergeSE](http://convergese.com/) | June 13-15, 2018 | | Columbia, SC, USA |
