@@ -432,5 +432,14 @@
     "endDate": "2018-06-09",
     "city": "St. Petersburg",
     "country": "Russia"
+  },
+  {
+    "name": "Shift Developer Conference",
+    "url": "https://www.shiftconf.io/",
+    "startDate": "2018-02-27",
+    "endDate": "2018-02-27",
+    "city": "San Francisco",
+    "country": "U.S.A.",
+    "twitter": "@OktaDev"
   }
 ]
