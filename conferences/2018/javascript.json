@@ -380,13 +380,20 @@
     "country": "U.K."
   },
   {
+    "name": "AngularCamp",
+    "url": "https://angularcamp.org/",
+    "startDate": "2018-07-18",
+    "endDate": "2018-07-20",
+    "city": "Barcelona",
+    "country": "Spain"
+  },
+  {
     "name": "Node Summit",
     "url": "http://www.nodesummit.com/",
     "startDate": "2018-07-23",
     "endDate": "2018-07-25",
     "city": "San Francisco, CA",
     "country": "U.S.A.",
-    "twitter": "@NodeSummit"
   },
   {
     "name": "JSFoo",
