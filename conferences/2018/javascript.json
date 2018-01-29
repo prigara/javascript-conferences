@@ -378,6 +378,15 @@
     "country": "Germany"
   },
   {
+    "name": "Codemotion Amsterdam",
+    "url": "https://amsterdam2018.codemotionworld.com/",
+    "startDate": "2018-05-08",
+    "endDate": "2018-05-09",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "twitter": "@codemoamsterdam"
+  },
+  {
     "name": "JSDay Italy",
     "url": "http://jsday.it/",
     "startDate": "2018-05-09",
