@@ -1058,6 +1058,17 @@
     "twitter": "@ruhrjs"
   },
   {
+    "name": "Web Developer Conference (WDC)",
+    "url": "https://www.web-developer-conference.de",
+    "startDate": "2018-10-16",
+    "endDate": "2018-10-18",
+    "city": "München",
+    "country": "Germany",
+    "cfpUrl": "https://docs.google.com/forms/d/e/1FAIpQLScjiQQ43sWklHpN9hOX-lRwD4zlUnAmV7ZC89-6SENckuD5Hw/viewform",
+    "cfpEndDate": "2018-04-01",
+    "twitter": "@wdc_conference"
+  },
+  {
     "name": "Connect.Tech",
     "url": "http://connect.tech",
     "startDate": "2018-10-17",
