@@ -767,6 +767,17 @@
     "twitter": "@NodeSummit"
   },
   {
+    "name": "Nebraska JavaScript Conference",
+    "url": "https://2018.nejsconf.com",
+    "startDate": "2018-07-27",
+    "endDate": "2018-07-27",
+    "city": "Omaha, NE",
+    "country": "U.S.A.",
+    "cfpUrl": "https://www.papercall.io/nejsconf2018",
+    "cfpEndDate": "2018-04-09",
+    "twitter": "@nejsconf"
+  },
+  {
     "name": "Web Directions Code",
     "startDate": "2018-08-02",
     "endDate": "2018-08-03",
