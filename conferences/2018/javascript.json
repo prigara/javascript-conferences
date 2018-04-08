@@ -1166,5 +1166,16 @@
     "city": "Berlin",
     "country": "Germany",
     "twitter": "@vuejsroadtrip"
+  },
+  {
+    "name": "qwd",
+    "url": "qwd",
+    "startDate": "2018-04-08",
+    "endDate": "2018-04-08",
+    "city": "wqd",
+    "country": "qwd",
+    "twitter": null,
+    "cfpUrl": "qwd",
+    "cfpEndDate": null
   }
 ]
