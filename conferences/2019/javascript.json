@@ -18,5 +18,16 @@
     "twitter": "@vuejsamsterdam",
     "cfpUrl": "",
     "cfpEndDate": null
+  },
+  {
+    "name": "FITC Amsterdam 2019 ",
+    "url": "http://fitc.ca/event/am19",
+    "startDate": "2019-02-18",
+    "endDate": "2019-02-19",
+    "city": "Amsterdam",
+    "country": "The Netherlands",
+    "twitter": "@fitc",
+    "cfpUrl": "",
+    "cfpEndDate": null
   }
 ]
