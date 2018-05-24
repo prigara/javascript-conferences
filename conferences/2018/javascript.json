@@ -1372,12 +1372,12 @@
     "cfpEndDate": "2018-07-21"
   },
   {
-    "name": "React Boston 2018",
+    "name": "React Boston",
     "url": "http://www.reactboston.com",
     "startDate": "2018-09-29",
     "endDate": "2018-09-30",
-    "city": "Boston",
-    "country": "United States",
+    "city": "Boston, MA",
+    "country": "U.S.A.",
     "twitter": "@reactboston",
     "cfpUrl": "https://goo.gl/forms/tJJBwTCur7KkqjPq2",
     "cfpEndDate": "2018-06-30"
