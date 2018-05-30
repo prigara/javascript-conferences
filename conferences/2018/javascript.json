@@ -1447,5 +1447,16 @@
     "twitter": null,
     "cfpUrl": "https://sessionize.com/utahjs-conf-2018/",
     "cfpEndDate": "2018-06-17"
+  },
+  {
+    "name": "Visual Studio Live! Redmond",
+    "url": "https://vslive.com/events/redmond-2018/home.aspx?utm_source=AttendeeMktg&utm_medium=Client/Partner Generated&utm_campaign=Ctech",
+    "startDate": "2018-08-13",
+    "endDate": "2018-08-17",
+    "city": "Redmond, WA",
+    "country": "USA",
+    "twitter": "@vslive",
+    "cfpUrl": "",
+    "cfpEndDate": null
   }
 ]
