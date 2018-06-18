@@ -1499,5 +1499,16 @@
     "twitter": "@jscamptech",
     "cfpUrl": "",
     "cfpEndDate": null
+  },
+  {
+    "name": "Test",
+    "url": "test.com",
+    "startDate": "2018-06-18",
+    "endDate": "2018-06-18",
+    "city": "MTL",
+    "country": "Canada",
+    "twitter": null,
+    "cfpUrl": "",
+    "cfpEndDate": null
   }
 ]
