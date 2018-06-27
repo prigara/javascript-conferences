@@ -1554,5 +1554,16 @@
     "twitter": null,
     "cfpUrl": "",
     "cfpEndDate": null
+  },
+  {
+    "name": "ReactNext",
+    "url": "http://react-next.com/",
+    "startDate": "2018-11-04",
+    "endDate": "2018-11-04",
+    "city": "Tel Aviv",
+    "country": "Israel",
+    "twitter": "@ReactNext",
+    "cfpUrl": "http://bit.ly/reactnextcfp2018",
+    "cfpEndDate": "2018-07-01"
   }
 ]
