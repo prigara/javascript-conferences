@@ -1554,5 +1554,16 @@
     "twitter": null,
     "cfpUrl": "",
     "cfpEndDate": null
+  },
+  {
+    "name": "NG Colombia",
+    "url": "https://ngcolombia.com",
+    "startDate": "2018-09-06",
+    "endDate": "2018-09-07",
+    "city": "Medellín",
+    "country": "Colombia",
+    "twitter": "@YuxiGlobal",
+    "cfpUrl": "",
+    "cfpEndDate": null
   }
 ]
