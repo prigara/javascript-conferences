@@ -1554,5 +1554,16 @@
     "twitter": null,
     "cfpUrl": "",
     "cfpEndDate": null
+  },
+  {
+    "name": "Blake Newman",
+    "url": "vuejs.london",
+    "startDate": "2018-09-20",
+    "endDate": "2018-09-21",
+    "city": "London",
+    "country": "United Kingdom",
+    "twitter": "@vue_london",
+    "cfpUrl": "",
+    "cfpEndDate": null
   }
 ]
