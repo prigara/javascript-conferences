@@ -1576,5 +1576,16 @@
     "twitter": "@liberty_js",
     "cfpUrl": "https://www.papercall.io/libertyjs-2018",
     "cfpEndDate": "2018-09-01"
+  },
+  {
+    "name": "Made By Few",
+    "url": "https://madebyfew.com",
+    "startDate": "2018-10-25",
+    "endDate": "2018-10-27",
+    "city": "Little Rock, Arkansas",
+    "country": "U.S.A.",
+    "twitter": "",
+    "cfpUrl": "",
+    "cfpEndDate": null
   }
 ]
